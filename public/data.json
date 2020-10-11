@@ -48,6 +48,11 @@
         "title": "学习科研",
         "items": [
             {
+                "name": "智慧树",
+                "link": "https://www.zhihuishu.com/",
+                "description": "兰大网络任选课学习。"
+            },
+			{
                 "name": "鸠摩搜书",
                 "link": "https://www.jiumodiary.com/",
                 "description": "中文电子书下载。"
@@ -80,7 +85,12 @@
 			{
                 "name": "大学计算机专业",
                 "link": "https://study.163.com/curricula/cs.htm",
-                "description": "免费、权威、系统的计算机课程体系"
+                "description": "免费、权威、系统的计算机课程体系。"
+            },
+			{
+                "name": "限时推荐：多邻国",
+                "link": "https://www.duolingo.cn/",
+                "description": "简单有趣的二外学习软件，推荐APP。"
             },
 			{
                 "name": "我要建议",
@@ -128,7 +138,7 @@
             {
                 "name": "小森林导航",
                 "link": "http://www.xsldh6.com/",
-                "description": "网络资源站。"
+                "description": "影视、书籍、软件资源站。"
             },
 			{
                 "name": "GitHub学生包",
@@ -139,7 +149,7 @@
             {
                 "name": "限时推荐：Firefox",
                 "link": "https://www.mozilla.org/zh-CN/firefox/download/thanks/",
-                "description": "最干净的浏览器，请注意网址正确。"
+                "description": "最干净的浏览器。"
             },
 			{
                 "name": "我要建议",
