@@ -173,19 +173,24 @@
             },
             
             {
-                "name": "鹅厂线上研究训练营",
+                "name": "推荐关注：鹅厂线上研究训练营",
                 "link": "https://mp.weixin.qq.com/s/ics5Ppbnu7NAx_UwqU-gDg",
                 "description": "不限专业，推荐了解，提前准备。"
             },
 			{
-                "name": "腾讯PCG创新项目远程实习",
+                "name": "推荐关注：腾讯PCG创新项目远程实习",
                 "link": "https://mp.weixin.qq.com/s/67iPoz3LvOLtS85dCq-QgA",
                 "description": "不限专业，可以提前关注公众号。"
             },
 			{
-                "name": "德勤寒假实习生",
+                "name": "推荐关注：德勤寒假实习生",
                 "link": "https://mp.weixin.qq.com/s/19gE8AIDf7-8DhbfOJCILg",
                 "description": "不限专业，2022届招募中。"
+            },
+			{
+                "name": "推荐关注：阿里文娱体验官",
+                "link": "https://campus.alibaba.com/talentPlanDetail.htm?spm=a1z3e1.11770841.0.0.60137405Mu6oB2&id=96",
+                "description": "用户研究、创意设计、创意营销等。"
             },
 			{
                 "name": "超级简历",
@@ -273,6 +278,11 @@
                 "name": "我要上墙",
                 "link": "https://wj.qq.com/s2/7313466/2d94/",
                 "description": "推荐背景图片。"
+            },
+            {
+                "name": "如何修改主页",
+                "link": "https://zhuanlan.zhihu.com/p/265133827",
+                "description": "在爱兰岛上度过大学时光~"
             }
         ]
     }
