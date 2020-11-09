@@ -97,11 +97,7 @@
                 "link": "https://study.163.com/curricula/cs.htm",
                 "description": "免费、权威、系统的计算机课程体系。"
             },
-			{
-                "name": "限时推荐：多邻国",
-                "link": "https://www.duolingo.cn/",
-                "description": "简单有趣的二外学习软件，推荐APP。"
-            },
+			
 			{
                 "name": "我要建议",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
@@ -156,11 +152,7 @@
                 "description": "校园邮箱福利。"
             },
           
-            {
-                "name": "限时推荐：Firefox",
-                "link": "https://www.mozilla.org/zh-CN/firefox/download/thanks/",
-                "description": "最干净的浏览器。"
-            },
+           
 			{
                 "name": "我要建议",
                 "link": "https://wj.qq.com/s2/7310801/ff08/",
@@ -222,11 +214,7 @@
     {
         "title": "精选文章",
         "items": [
-		    {
-                "name": "让你重新上一次大学，你会？",
-                "link": "https://www.zhihu.com/question/304844787/answer/552701904",
-                "description": "学长学姐经历复盘。"
-            },
+		    
             {
                 "name": "大学对我们的意义何在？",
                 "link": "https://mp.weixin.qq.com/s/FfVTpNTnNbXHmfION777RA",
@@ -253,7 +241,7 @@
                 "description": "提问之前要做什么？"
             },
 			{
-                "name": "限时推荐：时光邮局",
+                "name": "时光邮局",
                 "link": "https://timemail.net/",
                 "description": "给四年后的自己写封信。"
             },
