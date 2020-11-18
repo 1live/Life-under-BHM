@@ -73,9 +73,9 @@
                 "description": "全球电子书下载。"
             },
 			{
-                "name": "知网",
-                "link": "https://www.cnki.net/",
-                "description": "学术论文检索与下载"
+                "name": "知网海外版",
+                "link": "https://chn.oversea.cnki.net/",
+                "description": "学术论文检索与PDF下载"
             },
 			{
                 "name": "读秀",
@@ -261,11 +261,6 @@
                 "name": "我要加QQ",
                 "link": "tencent://message/?uin=1171401916&Site=JooIT.com&Menu=yes",
                 "description": "1171401916"
-            },
-            {
-                "name": "我要加群",
-                "link": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9fc7e195-e711-4cf2-8429-65eef0e76025/.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201011%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201011T083937Z&X-Amz-Expires=86400&X-Amz-Signature=0af4cfcdbdbb71379b22879d8a998673ffc16d3cb1684a6aa9b58d69a0cd9566&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22.png%22",
-                "description": "爱兰岛岛民互助！"
             },
             {
                 "name": "我要上墙",
